@@ -2,6 +2,6 @@
 Application de recherche d'emploi
 
 
-#Technoligie
+# Technologie
   -Dart
   -Flutter
